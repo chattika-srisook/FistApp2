@@ -2,4 +2,6 @@
     <string name="app_name">FistApp2</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bio">"ชื่อ ฉัตติกา ศรีสุข อายุ 21 ปี ศึกษา อยู่ที่ มหาวิทยาลัยเทคโนโลยีราชมงคลอีสาน สาขาวิทยาการคอมพิวเตอร์ อาศัยอยู่ที่ กองบิน1 1/1025 หมู่ 1 ต.หนองไผ่ล้อม  อ.เมือง จ.นครราชสีมา  "</string>
+    <string name="Profile">Profile</string>
 </resources>

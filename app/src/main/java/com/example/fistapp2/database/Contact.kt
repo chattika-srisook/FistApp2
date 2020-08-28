@@ -12,4 +12,5 @@ data class Contact (
     var name: String = "unnamed",
     @ColumnInfo(name = "phone")
     var phone: String = ""
+
 )

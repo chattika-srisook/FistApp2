@@ -12,6 +12,7 @@
     <FrameLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:background="@drawable/sooya"
         tools:context=".ContactFragment">
 
         <!-- TODO: Update blank fragment layout -->
@@ -39,7 +40,9 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:onClick="@{()->contactViewModel.onContactAdd()}"
-                android:text="Button" />
+                android:shadowColor="@color/design_default_color_secondary"
+                android:text="Add"
+                android:textColor="@color/design_default_color_secondary_variant" />
 
             <TextView
                 android:id="@+id/textview"
